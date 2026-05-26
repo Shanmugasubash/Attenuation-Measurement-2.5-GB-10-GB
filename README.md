@@ -74,11 +74,9 @@ Your report should contain:
 
 - **Pre-lab Calculations**  
 
-- **Screenshots** of layout and results (including eye diagrams)  
+<img width="838" height="1280" alt="WhatsApp Image 2026-05-26 at 10 45 05 PM" src="https://github.com/user-attachments/assets/10bd9c00-cf33-4106-9d3f-209fb9b44415" />
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+- **Screenshots** of layout and results (including eye diagrams) 
 
+- <img width="1648" height="873" alt="image" src="https://github.com/user-attachments/assets/9ba10bbb-3017-4b33-837e-9dc28fc60dc7" />
 - **Written Summary** of observations and explanations of differences.  
